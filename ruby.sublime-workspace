@@ -1,0 +1,1591 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"do",
+				"dob	Insert do |variable| … end"
+			],
+			[
+				"if",
+				"ife	if … else … end"
+			],
+			[
+				"H",
+				"Hiragana"
+			],
+			[
+				"ha",
+				"hastaken_1"
+			],
+			[
+				"bl",
+				"blind/	Dir"
+			],
+			[
+				"stud",
+				"Studies"
+			],
+			[
+				"Gr",
+				"Graduate"
+			],
+			[
+				"Se",
+				"Senior"
+			],
+			[
+				"lab",
+				"label"
+			],
+			[
+				"Que",
+				"Questionnaire"
+			],
+			[
+				"ja",
+				"japanese.php"
+			],
+			[
+				"ex",
+				"exams.css"
+			],
+			[
+				"uder",
+				"underline"
+			],
+			[
+				"answ",
+				"answer_score"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"subm",
+				"submit_qno"
+			],
+			[
+				"jp",
+				"jp_sub_qno"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"_S",
+				"_SESSION"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"FLP_J",
+				"FLP_JAPANESE_SUB"
+			],
+			[
+				"tmp",
+				"tmpdata.txt"
+			],
+			[
+				"an",
+				"answer"
+			],
+			[
+				"cho",
+				"choice_e"
+			],
+			[
+				"choice",
+				"choice_a"
+			],
+			[
+				"quest",
+				"question"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"cantonese_",
+				"cantonese_question"
+			],
+			[
+				"can",
+				"cantonese"
+			],
+			[
+				"latin",
+				"latin_question"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"table",
+				"tablesorter"
+			],
+			[
+				"st",
+				"student"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"contain",
+				"container"
+			],
+			[
+				"conta",
+				"contactForm"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"butt",
+				"button"
+			],
+			[
+				"contact",
+				"contactForm"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"com",
+				"comments"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"cent",
+				"center"
+			],
+			[
+				"blo",
+				"blockquote  (element)"
+			],
+			[
+				"appen",
+				"appendTo"
+			],
+			[
+				"article",
+				"article"
+			],
+			[
+				"clo",
+				"clone"
+			],
+			[
+				"slide",
+				"slideDown"
+			],
+			[
+				"sib",
+				"siblings"
+			],
+			[
+				"mou",
+				"mouseenter"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"hid",
+				"hide"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"close",
+				"closest"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"re",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"tur",
+				"turnGreen"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sc",
+				"script	<script>"
+			],
+			[
+				"emp",
+				"emphasis"
+			],
+			[
+				"addc",
+				"addClass"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"style",
+				"style"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"s",
+				"sql"
+			],
+			[
+				"ad",
+				"adviser"
+			],
+			[
+				"fu",
+				"functions"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pa lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pali",
+				"Package Control: List Packages"
+			],
+			[
+				"sva",
+				"Project: Save As"
+			],
+			[
+				"se",
+				"Set Syntax: PHP"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"pakc lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pac in",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"rem",
+				"Emmet: Remove Tag"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"pack l",
+				"Package Control: List Packages"
+			],
+			[
+				"pack di",
+				"Package Control: Disable Package"
+			],
+			[
+				"emmet ",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"ju",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"sav",
+				"File: Save All"
+			],
+			[
+				"sava",
+				"File: Save All"
+			],
+			[
+				"fi",
+				"File: Delete"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"col",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"toggle s",
+				"View: Toggle Status Bar"
+			],
+			[
+				"select co",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"toggle",
+				"View: Toggle Status Bar"
+			],
+			[
+				"to",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"filed",
+				"FileDiffs: Menu"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"git show",
+				"Git: Show Current File"
+			],
+			[
+				"file ",
+				"File: Duplicate"
+			],
+			[
+				"file",
+				"File: Duplicate"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"git ",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit history"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"git sho",
+				"Git: Show Tags"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"selec",
+				"BracketHighlighter: Select Tag Name (closing and opening)"
+			],
+			[
+				"br",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"pac li",
+				"Package Control: List Packages"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa in",
+				"Package Control: Install Package"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"emmet",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"tag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"gitb",
+				"Git: Blame"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"co",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"file co",
+				"File: Copy Name"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"pac ",
+				"Package Control: Remove Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"colo",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"clo",
+				"ColorSchemeSelector: Random Color Scheme"
+			],
+			[
+				"cl",
+				"ColorSchemeSelector: Random Color Scheme"
+			],
+			[
+				"br wr",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"bra",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"jum",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				":cop t",
+				"File: Copy as Tag a"
+			],
+			[
+				"jump",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"pac re",
+				"Package Control: Remove Package"
+			],
+			[
+				"con",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"pai",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"file pa",
+				"File: Copy Path as URI"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"co pi",
+				"Color picker"
+			],
+			[
+				"co p",
+				"File: Copy Path From Project"
+			],
+			[
+				"filecp",
+				"File: Copy Path From Project"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"go",
+				"Goto Tab"
+			],
+			[
+				"pa l",
+				"Package Control: List Packages"
+			],
+			[
+				"pa up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"jup",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bracke",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"br se",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"pa rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packl",
+				"Package Control: List Packages"
+			],
+			[
+				"path",
+				"File: Copy Path From Project"
+			],
+			[
+				"filep",
+				"File: Copy Path"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"sephp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ex",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"pin",
+				"Package Control: Install Package"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"che",
+				"Git: Checkout Current File"
+			],
+			[
+				"git a",
+				"Git: Toggle Annotations"
+			],
+			[
+				"anno",
+				"Git: Toggle Annotations"
+			],
+			[
+				"git dr",
+				"Git: Stash Drop"
+			],
+			[
+				"git stash",
+				"Git: Stash Drop"
+			],
+			[
+				"git stash ch",
+				"Git: Stash Changes"
+			],
+			[
+				"an",
+				"Git: Toggle Annotations"
+			],
+			[
+				"annoo",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"a",
+				"About"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"gitlo",
+				"Git: Log Current File"
+			],
+			[
+				"sa",
+				"Project: Save As"
+			],
+			[
+				"copy",
+				"File: Copy Path From Project"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jingenlin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/Default (OSX).sublime-keymap",
+		"/Users/jingenlin/Documents/Ruby/rubyTuts/code/loop.rb",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/Users/jingenlin/Documents/Ruby/rubyTuts/code/func.rb",
+		"/Users/jingenlin/Documents/Ruby/rubyTuts/code/condition.rb",
+		"/Users/jingenlin/Documents/Ruby/rubyTuts/code/const.rb",
+		"/Users/jingenlin/Documents/Ruby/rubyTuts/code/test.rb",
+		"/Users/jingenlin/Documents/Ruby/rubyTuts/code/test.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/importRoles.php",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/simplified_chinese.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/exams.css",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jp_questionaire.txt",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/japanese.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/blind/functions.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/tmpsql.sql",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/logstudent.php",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/japanese_report.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jp_questionaire.php",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/cantonese.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/japanese_submit.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jp_info.html",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jp_info.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/tmpdata.txt",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/cantonese_report.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/cas.css",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/simplified_chinese_submit.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/import.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/importJapan.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/canTmp.txt",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/User/tmp",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/simplified_chinese_report.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/traditional_chinese_report.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/placement.sql",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/blind/pieces.inc",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/cantonese_submit.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/cantonese.sql",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/blind/connect.inc",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/latin.sql",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/tables.sql",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/import",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/CTags/README.creole",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/CTags/CTags.sublime-settings",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/CTags/package-metadata.json",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/index.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/validate.js",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/blind/pieces_backup.inc",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/admin/index.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/blind/cas.css",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/blind/object/stylesheet.css",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/admin/main.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/koreanstart.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/french.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/korean_report.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/korean.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/admin/jquery.tablesorter.min.js",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/jquery.tablesorter.min.js",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/korean_submit.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/js.css",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/bind-live-delegate-huh.html",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/events-201.html",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/events.html",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/jquery-3.html",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/jQuery_dev.js",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/create_append.html",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/slide_and_structure.html",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/day.css",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/night.css",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/jquery-1.html",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/jquery.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/jQuery.js",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/koreanPartA.php",
+		"/Users/jingenlin/Downloads/f2.html",
+		"/Users/jingenlin/Downloads/f1.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/.buildpath",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/admin/viewstudent.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/checkNnumber.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jQuery.js",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/admin/export_csv.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/admin/export_excel.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery.js",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/new.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/un.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/jquery/untitled",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/greek.php",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/foreignlang.sublime-project",
+		"/Users/jingenlin/jobs/projects/foreignlang.sublime-project",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/test.php",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/test.html",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/processexam.php",
+		"/Users/jingenlin/Library/Application Support/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/exam.php",
+		"/Users/jingenlin/jobs/cakephp/Open-Assembly/app/webroot/css/stylesheets/pages/admin_history.css",
+		"/Users/jingenlin/tips/git.sh",
+		"/Users/jingenlin/jobs/cakephp/Open-Assembly/app/webroot/css/sass/pages/admin_histroy.css",
+		"/Users/jingenlin/jobs/cakephp/Open-Assembly/app/webroot/css/sass/pages/admin_histroy.scss",
+		"/Users/jingenlin/jobs/cakephp/Open-Assembly/app/webroot/css/sass/player/player.scss",
+		"/Users/jingenlin/jobs/cakephp/Open-Assembly/app/webroot/css/sass/general/oa_cake.scss",
+		"/Users/jingenlin/jobs/cakephp/Open-Assembly/sass/screen.scss",
+		"/Users/jingenlin/jobs/cakephp/Open-Assembly/app/Controller/AdminController.php",
+		"/Users/jingenlin/jobs/cakephp/Open-Assembly/app/webroot/css/.sass-cache/c934552cceac8bddd5f7ffb0a0e1fc7a7d0868bc/admin_histroy.scssc",
+		"/Users/jingenlin/jobs/cakephp/Open-Assembly/app/Controller/DashboardController.php",
+		"/Users/jingenlin/jobs/cakephp/Open-Assembly/app/View/Users/view.ctp",
+		"/Users/jingenlin/jobs/web/exams/foreignlang/CAS_ADMINS_ROLE.sql",
+		"/Users/jingenlin/jobs/cakephp/Open-Assembly/app/Controller/ContentItemsUserController.php",
+		"/Users/jingenlin/jobs/cakephp/Open-Assembly/app/View/Dashboard/course_info_edit.ctp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"*.php, *.html, *.css",
+			"",
+			"*.js",
+			"",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Civic",
+			"age",
+			" \n",
+			"location",
+			"all",
+			"&#59;",
+			"\n				",
+			"Japan",
+			"has_lived",
+			"hastaken_2",
+			"radio",
+			"where_study_1",
+			"td",
+			"hastaken",
+			"nu",
+			"where_study",
+			"last",
+			"<body id=\"cx\" class=\"id2461\">\n\n	<?php header1(); header2(); ?>\n",
+			"href",
+			"1",
+			"print",
+			"des",
+			"answer_score",
+			"des",
+			"input",
+			"50",
+			"15",
+			"18",
+			"width",
+			"10",
+			"el",
+			"\\s$",
+			"\\s",
+			"nyu",
+			"EAST",
+			"questions",
+			"subResult",
+			"question",
+			"chinese",
+			"qNo",
+			"A",
+			"Question:",
+			"question",
+			"japanese",
+			"chinese",
+			". ",
+			"content",
+			"br",
+			"if",
+			"width",
+			"5",
+			"15",
+			"chinese_question1",
+			"simplified_chinese",
+			"chinese",
+			"latin",
+			"E",
+			"`",
+			"str",
+			"latin",
+			"cantonese_question",
+			"open_mysql",
+			"execute",
+			"SublimeCodeIntel",
+			"required",
+			"require",
+			"foreignlang",
+			"required",
+			"img14335",
+			"docs",
+			"url",
+			"\n\"/",
+			"cas.nyu.edu/object/as-baselayout-ie7.css",
+			"//www.nyu.edu/cas/ContactUs.html",
+			"http",
+			"bold",
+			"strong",
+			"ddd",
+			"http",
+			"order",
+			"tr",
+			"super+k",
+			"print",
+			"refe",
+			"true",
+			"submit",
+			"ctrl\\+u",
+			"super\\+k.*delete",
+			"delete",
+			"deletei",
+			"delete",
+			"contactFor",
+			"appendTo",
+			"function",
+			"()",
+			"comments",
+			"\n\n\n\n\n\n\n\n\n\n	</style>\n</head>\n<body>\n	<script src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js\" ></script>\n	<script>\n	(function(){\n		$('html').addClass('js');\n		var contactForm = \n	})\n	</script>\n</body>\n</html>",
+			"bod",
+			"this",
+			"link",
+			"da",
+			"button",
+			"item",
+			"<",
+			"<\n<",
+			"<",
+			"ready",
+			" class=\"item 2",
+			"playlist",
+			"phoenix_tabs_medium",
+			"submit",
+			"pieces",
+			"language",
+			"_SESSION",
+			"{\n",
+			"partB",
+			"question",
+			"\nfunction korean_question($row, $questions, $qNo, $playlist) {\n    if ($row != false) {\n        if ($row->sectionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<strong>\" . nl2br ( $row->sectionInfo ) . \"</strong>\";\n            echo \"</td></tr>\";\n            echo  \"<tr><td><br/></td></tr>\";\n        }\n        if ($row->vocabulary != \"\") {\n            echo \"<tr><td id='vocabulary'>\";\n            echo \"<u>Vocabulary (in order of appearance): </u><br/>\";\n            echo nl2br ( $row->vocabulary );\n            echo \"<hr/></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"Question: $row->question\";\n        echo \"</td></tr>\";\n        if ($row->sound != \"\") {\n            echo \"<br/>\";\n            echo \"Click the play buttion to play\";\n            echo \"<br />\";\n            echo \"<EMBED src='$row->sound' LOOP=FALSE AUTOSTART=TRUE WIDTH='250' HEIGHT='30'>\";\n            $playlist[$row->id]=1;\n            $_SESSION['playlist']=$playlist;\n        }\n        if ($row->questionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<i>\" . nl2br ( $row->questionInfo ) . \"</i>\";\n            echo \"</td></tr>\";\n        }\n        if ($row->table != \"\") {\n            echo \"<tr><td><table border=1 cellpadding=5 cellspacing=5 ><tr><td>\";\n            echo \"<i>\" . nl2br ( $row->table ) . \"</i>\";\n            echo \"</td></tr></table></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"<table>\";\n        if (isset ( $row->choice_a )) {\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>a) $row->choice_a</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_b )) {\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>b) $row->choice_b</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_c )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>c) $row->choice_c</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_d )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>d) $row->choice_d</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_e )) {\n\n           ",
+			"\nfunction korean_question($row, $questions, $qNo, $playlist) {\n    if ($row != false) {\n        if ($row->sectionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<strong>\" . nl2br ( $row->sectionInfo ) . \"</strong>\";\n            echo \"</td></tr>\";\n            echo  \"<tr><td><br/></td></tr>\";\n        }\n        if ($row->vocabulary != \"\") {\n            echo \"<tr><td id='vocabulary'>\";\n            echo \"<u>Vocabulary (in order of appearance): </u><br/>\";\n            echo nl2br ( $row->vocabulary );\n            echo \"<hr/></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"Question: $row->question\";\n        echo \"</td></tr>\";\n        if ($row->sound != \"\") {\n            echo \"<br/>\";\n            echo \"Click the play buttion to play\";\n            echo \"<br />\";\n            echo \"<EMBED src='$row->sound' LOOP=FALSE AUTOSTART=TRUE WIDTH='250' HEIGHT='30'>\";\n            $playlist[$row->id]=1;\n            $_SESSION['playlist']=$playlist;\n        }\n        if ($row->questionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<i>\" . nl2br ( $row->questionInfo ) . \"</i>\";\n            echo \"</td></tr>\";\n        }\n        if ($row->table != \"\") {\n            echo \"<tr><td><table border=1 cellpadding=5 cellspacing=5 ><tr><td>\";\n            echo \"<i>\" . nl2br ( $row->table ) . \"</i>\";\n            echo \"</td></tr></table></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"<table>\";\n        if (isset ( $row->choice_a )) {\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>a) $row->choice_a</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_b )) {\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>b) $row->choice_b</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_c )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>c) $row->choice_c</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_d )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>d) $row->choice_d</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_e )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>e) $row->choice_e</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_f )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>f) $row->choice_f</td>\";\n            echo \"</tr>\";\n        }\n        echo \"</table>\";\n        echo \"</td></tr>\";\n\n        echo \"<tr><td>\";\n        echo \"<br />\";\n        echo \"Please choose your answer:<br/>\";\n        if (isset ( $row->choice_a )) {\n            echo \"<label>A: <input type='radio' name='user_answer' id='$row->id' value='A'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"A\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_b )) {\n            echo \"<label>B: <input type='radio' name='user_answer' id='$row->id' value='B'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"B\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_c )) {\n            echo \"<label>C: <input type='radio' name='user_answer' id='$row->id' value='C'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"C\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_d )) {\n            echo \"<label>D: <input type='radio' name='user_answer' id='$row->id' value='D'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"D\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_e )) {\n            echo \"<label>E: <input type='radio' name='user_answer' id='$row->id' value='E'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"E\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_f )) {\n            echo \"<label>F: <input type='radio' name='user_answer' id='$row->id' value='F'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"F\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        echo \"</td></tr>\";\n    } else {\n        echo \"There is no question in the database.\";\n        exit ();\n    }\n}\nfunction korean_submit_question($row, $questions, $qNo) {\n    if ($row != false) {\n        if ($row->sectionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<strong>\" . nl2br ( $row->sectionInfo ) . \"</strong>\";\n            echo \"</td></tr>\";\n        }\n        if ($row->vocabulary != \"\") {\n            echo \"<tr><td id='vocabulary'>\";\n            echo \"<u>Vocabulary (in order of appearance): </u><br/>\";\n            echo nl2br ( $row->vocabulary );\n            echo \"<hr/></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"Question: $row->question\";\n        if ($row->questionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<i>\" . nl2br ( $row->questionInfo ) . \"</i>\";\n            echo \"</td></tr>\";\n        }\n        echo \"</td></tr>\";\n        if ($row->table != \"\") {\n            echo \"<tr><td><table border=1 cellpadding=5 cellspacing=5 ><tr><td>\";\n            echo \"<i>\" . nl2br ( $row->table ) . \"</i>\";\n            echo \"</td></tr></table></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"<table>\";\n        if (isset ( $row->choice_a )) {\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>a) $row->choice_a</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_b )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>b) $row->choice_b</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_c )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>c) $row->choice_c</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_d )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>d) $row->choice_d</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_e )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>e) $row->choice_e</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_f )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>f) $row->choice_f</td>\";\n            echo \"</tr>\";\n        }\n        echo \"</table>\";\n        echo \"</td></tr>\";\n\n        echo \"<tr><td>\";\n        echo \"<br />\";\n\n        if (isset ( $row->choice_a )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"A\") {\n                echo \"<p class = 'answer' > The answer you chose is A.</p>\";\n            }\n        }\n        if (isset ( $row->choice_b )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"B\") {\n                echo \"<p class = 'answer' > The answer you chose is B.</p>\";\n            }\n        }\n        if (isset ( $row->choice_c )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"C\") {\n                echo \"<p class = 'answer' > The answer you chose is C.</p>\";\n            }\n        }\n        if (isset ( $row->choice_d )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"D\") {\n                echo \"<p class = 'answer' > The answer you chose is D.</p>\";\n            }\n        }\n        if (isset ( $row->choice_e )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"E\") {\n                echo \"<p class = 'answer' > The answer you chose is E.</p>\";\n            }\n        }\n        if (isset ( $row->choice_f )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"F\") {\n                echo \"<p class = 'answer' > The answer you chose is F.</p>\";\n            }\n        }\n        if (! isset ( $questions [$qNo] [\"user_answer\"] )) {\n            echo \"<p class = 'answer' id='no_answer'> You haven't chosen any answer for this question.</p>\";\n        }\n        echo \"</td></tr>\";\n    } else {\n        echo \"There is no question in the database.\";\n        exit ();\n    }\n}\n?>\n",
+			"function korean_question($row, $questions, $qNo, $playlist) {\n    if ($row != false) {\n        if ($row->sectionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<strong>\" . nl2br ( $row->sectionInfo ) . \"</strong>\";\n            echo \"</td></tr>\";\n            echo  \"<tr><td><br/></td></tr>\";\n        }\n        if ($row->vocabulary != \"\") {\n            echo \"<tr><td id='vocabulary'>\";\n            echo \"<u>Vocabulary (in order of appearance): </u><br/>\";\n            echo nl2br ( $row->vocabulary );\n            echo \"<hr/></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"Question: $row->question\";\n        echo \"</td></tr>\";\n        if ($row->sound != \"\") {\n            echo \"<br/>\";\n            echo \"Click the play buttion to play\";\n            echo \"<br />\";\n            echo \"<EMBED src='$row->sound' LOOP=FALSE AUTOSTART=TRUE WIDTH='250' HEIGHT='30'>\";\n            $playlist[$row->id]=1;\n            $_SESSION['playlist']=$playlist;\n        }\n        if ($row->questionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<i>\" . nl2br ( $row->questionInfo ) . \"</i>\";\n            echo \"</td></tr>\";\n        }\n        if ($row->table != \"\") {\n            echo \"<tr><td><table border=1 cellpadding=5 cellspacing=5 ><tr><td>\";\n            echo \"<i>\" . nl2br ( $row->table ) . \"</i>\";\n            echo \"</td></tr></table></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"<table>\";\n        if (isset ( $row->choice_a )) {\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>a) $row->choice_a</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_b )) {\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>b) $row->choice_b</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_c )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>c) $row->choice_c</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_d )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>d) $row->choice_d</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_e )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>e) $row->choice_e</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_f )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>f) $row->choice_f</td>\";\n            echo \"</tr>\";\n        }\n        echo \"</table>\";\n        echo \"</td></tr>\";\n\n        echo \"<tr><td>\";\n        echo \"<br />\";\n        echo \"Please choose your answer:<br/>\";\n        if (isset ( $row->choice_a )) {\n            echo \"<label>A: <input type='radio' name='user_answer' id='$row->id' value='A'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"A\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_b )) {\n            echo \"<label>B: <input type='radio' name='user_answer' id='$row->id' value='B'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"B\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_c )) {\n            echo \"<label>C: <input type='radio' name='user_answer' id='$row->id' value='C'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"C\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_d )) {\n            echo \"<label>D: <input type='radio' name='user_answer' id='$row->id' value='D'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"D\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_e )) {\n            echo \"<label>E: <input type='radio' name='user_answer' id='$row->id' value='E'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"E\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_f )) {\n            echo \"<label>F: <input type='radio' name='user_answer' id='$row->id' value='F'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"F\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        echo \"</td></tr>\";\n    } else {\n        echo \"There is no question in the database.\";\n        exit ();\n    }\n}\nfunction korean_submit_question($row, $questions, $qNo) {\n    if ($row != false) {\n        if ($row->sectionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<strong>\" . nl2br ( $row->sectionInfo ) . \"</strong>\";\n            echo \"</td></tr>\";\n        }\n        if ($row->vocabulary != \"\") {\n            echo \"<tr><td id='vocabulary'>\";\n            echo \"<u>Vocabulary (in order of appearance): </u><br/>\";\n            echo nl2br ( $row->vocabulary );\n            echo \"<hr/></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"Question: $row->question\";\n        if ($row->questionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<i>\" . nl2br ( $row->questionInfo ) . \"</i>\";\n            echo \"</td></tr>\";\n        }\n        echo \"</td></tr>\";\n        if ($row->table != \"\") {\n            echo \"<tr><td><table border=1 cellpadding=5 cellspacing=5 ><tr><td>\";\n            echo \"<i>\" . nl2br ( $row->table ) . \"</i>\";\n            echo \"</td></tr></table></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"<table>\";\n        if (isset ( $row->choice_a )) {\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>a) $row->choice_a</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_b )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>b) $row->choice_b</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_c )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>c) $row->choice_c</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_d )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>d) $row->choice_d</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_e )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>e) $row->choice_e</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_f )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>f) $row->choice_f</td>\";\n            echo \"</tr>\";\n        }\n        echo \"</table>\";\n        echo \"</td></tr>\";\n\n        echo \"<tr><td>\";\n        echo \"<br />\";\n\n        if (isset ( $row->choice_a )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"A\") {\n                echo \"<p class = 'answer' > The answer you chose is A.</p>\";\n            }\n        }\n        if (isset ( $row->choice_b )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"B\") {\n                echo \"<p class = 'answer' > The answer you chose is B.</p>\";\n            }\n        }\n        if (isset ( $row->choice_c )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"C\") {\n                echo \"<p class = 'answer' > The answer you chose is C.</p>\";\n            }\n        }\n        if (isset ( $row->choice_d )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"D\") {\n                echo \"<p class = 'answer' > The answer you chose is D.</p>\";\n            }\n        }\n        if (isset ( $row->choice_e )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"E\") {\n                echo \"<p class = 'answer' > The answer you chose is E.</p>\";\n            }\n        }\n        if (isset ( $row->choice_f )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"F\") {\n                echo \"<p class = 'answer' > The answer you chose is F.</p>\";\n            }\n        }\n        if (! isset ( $questions [$qNo] [\"user_answer\"] )) {\n            echo \"<p class = 'answer' id='no_answer'> You haven't chosen any answer for this question.</p>\";\n        }\n        echo \"</td></tr>\";\n    } else {\n        echo \"There is no question in the database.\";\n        exit ();\n    }\n}\n?>\n",
+			"correct_answer",
+			"function korean_question($row, $questions, $qNo, $playlist) {\n    if ($row != false) {\n        if ($row->sectionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<strong>\" . nl2br ( $row->sectionInfo ) . \"</strong>\";\n            echo \"</td></tr>\";\n            echo  \"<tr><td><br/></td></tr>\";\n        }\n        if ($row->vocabulary != \"\") {\n            echo \"<tr><td id='vocabulary'>\";\n            echo \"<u>Vocabulary (in order of appearance): </u><br/>\";\n            echo nl2br ( $row->vocabulary );\n            echo \"<hr/></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"Question: $row->question\";\n        echo \"</td></tr>\";\n        if ($row->sound != \"\") {\n            echo \"<br/>\";\n            echo \"Click the play buttion to play\";\n            echo \"<br />\";\n            echo \"<EMBED src='$row->sound' LOOP=FALSE AUTOSTART=TRUE WIDTH='250' HEIGHT='30'>\";\n            $playlist[$row->id]=1;\n            $_SESSION['playlist']=$playlist;\n        }\n        if ($row->questionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<i>\" . nl2br ( $row->questionInfo ) . \"</i>\";\n            echo \"</td></tr>\";\n        }\n        if ($row->table != \"\") {\n            echo \"<tr><td><table border=1 cellpadding=5 cellspacing=5 ><tr><td>\";\n            echo \"<i>\" . nl2br ( $row->table ) . \"</i>\";\n            echo \"</td></tr></table></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"<table>\";\n        if (isset ( $row->choice_a )) {\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>a) $row->choice_a</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_b )) {\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>b) $row->choice_b</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_c )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>c) $row->choice_c</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_d )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>d) $row->choice_d</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_e )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>e) $row->choice_e</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_f )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>f) $row->choice_f</td>\";\n            echo \"</tr>\";\n        }\n        echo \"</table>\";\n        echo \"</td></tr>\";\n\n        echo \"<tr><td>\";\n        echo \"<br />\";\n        echo \"Please choose your answer:<br/>\";\n        if (isset ( $row->choice_a )) {\n            echo \"<label>A: <input type='radio' name='user_answer' id='$row->id' value='A'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"A\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_b )) {\n            echo \"<label>B: <input type='radio' name='user_answer' id='$row->id' value='B'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"B\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_c )) {\n            echo \"<label>C: <input type='radio' name='user_answer' id='$row->id' value='C'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"C\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_d )) {\n            echo \"<label>D: <input type='radio' name='user_answer' id='$row->id' value='D'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"D\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_e )) {\n            echo \"<label>E: <input type='radio' name='user_answer' id='$row->id' value='E'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"E\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        if (isset ( $row->choice_f )) {\n            echo \"<label>F: <input type='radio' name='user_answer' id='$row->id' value='F'\";\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"F\") {\n                echo \"checked='checked'\";\n            }\n            echo \"/>&nbsp;&nbsp;</label>\";\n        }\n        echo \"</td></tr>\";\n    } else {\n        echo \"There is no question in the database.\";\n        exit ();\n    }\n}\nfunction korean_submit_question($row, $questions, $qNo) {\n    if ($row != false) {\n        if ($row->sectionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<strong>\" . nl2br ( $row->sectionInfo ) . \"</strong>\";\n            echo \"</td></tr>\";\n        }\n        if ($row->vocabulary != \"\") {\n            echo \"<tr><td id='vocabulary'>\";\n            echo \"<u>Vocabulary (in order of appearance): </u><br/>\";\n            echo nl2br ( $row->vocabulary );\n            echo \"<hr/></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"Question: $row->question\";\n        if ($row->questionInfo != \"\") {\n            echo \"<tr><td>\";\n            echo \"<i>\" . nl2br ( $row->questionInfo ) . \"</i>\";\n            echo \"</td></tr>\";\n        }\n        echo \"</td></tr>\";\n        if ($row->table != \"\") {\n            echo \"<tr><td><table border=1 cellpadding=5 cellspacing=5 ><tr><td>\";\n            echo \"<i>\" . nl2br ( $row->table ) . \"</i>\";\n            echo \"</td></tr></table></td></tr>\";\n        }\n        echo \"<tr><td>\";\n        echo \"<table>\";\n        if (isset ( $row->choice_a )) {\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>a) $row->choice_a</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_b )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>b) $row->choice_b</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_c )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>c) $row->choice_c</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_d )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>d) $row->choice_d</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_e )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>e) $row->choice_e</td>\";\n            echo \"</tr>\";\n        }\n        if (isset ( $row->choice_f )) {\n\n            echo \"<tr>\";\n            echo \"<td><span>&nbsp;&nbsp;&nbsp;</span>f) $row->choice_f</td>\";\n            echo \"</tr>\";\n        }\n        echo \"</table>\";\n        echo \"</td></tr>\";\n\n        echo \"<tr><td>\";\n        echo \"<br />\";\n\n        if (isset ( $row->choice_a )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"A\") {\n                echo \"<p class = 'answer' > The answer you chose is A.</p>\";\n            }\n        }\n        if (isset ( $row->choice_b )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"B\") {\n                echo \"<p class = 'answer' > The answer you chose is B.</p>\";\n            }\n        }\n        if (isset ( $row->choice_c )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"C\") {\n                echo \"<p class = 'answer' > The answer you chose is C.</p>\";\n            }\n        }\n        if (isset ( $row->choice_d )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"D\") {\n                echo \"<p class = 'answer' > The answer you chose is D.</p>\";\n            }\n        }\n        if (isset ( $row->choice_e )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"E\") {\n                echo \"<p class = 'answer' > The answer you chose is E.</p>\";\n            }\n        }\n        if (isset ( $row->choice_f )) {\n            if (isset ( $questions [$qNo] [\"user_answer\"] ) && $questions [$qNo] [\"user_answer\"] == \"F\") {\n                echo \"<p class = 'answer' > The answer you chose is F.</p>\";\n            }\n        }\n        if (! isset ( $questions [$qNo] [\"user_answer\"] )) {\n            echo \"<p class = 'answer' id='no_answer'> You haven't chosen any answer for this question.</p>\";\n        }\n        echo \"</td></tr>\";\n    } else {\n        echo \"There is no question in the database.\";\n        exit ();\n    }\n}\n?>\n",
+			"correct_answer",
+			"^\\n",
+			"<?php\n\nsession_start ();\n\nrequire ('./blind/connect.inc');\n\nrequire ('./blind/pieces.inc');\n\nrequire ('./blind/functions.php');\n\nopen_mysql ();\n\nexecute ( \"SET CHARACTER SET utf8\" );\n\n\n\n// debug();\n\n\n\n//$language = $_SESSION['language'];\n\n$language = \"Korean\";\n\n\n\n// if ((!$_SESSION['NYU_ID']) && ($_GET['language'])) die('Please begin your\n\n// exam <a href=\"index.php?language='.$_GET['language'].'\">here</a>.');\n\n// if ((!$_SESSION['NYU_ID']) || (!$language)) die('An error ocurred.');\n\n?>\n\n<!DOCTYPE html>\n\n<html>\n\n<head>\n\n\n\n<meta charset=\"utf-8\">\n\n\n\n<title><?php echo $language;?> Language Placement Exam</title>\n\n<script type=\"text/javascript\"\n\n	src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js\"></script>\n\n<script type=\"text/javascript\"\n\n	src=\"http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.0/jquery.validate.js\"></script>\n\n\n\n	<?php styles(); ?>\n\n	\n\n<link rel=\"stylesheet\" type=\"text/css\" href=\"exams.css\" />\n\n</head>\n\n\n\n\n\n<body id=\"cx\" class=\"id2461\">\n\n\n\n<?php header1(); header2(); ?>\n\n	\n\n	<h2>New York University <?php echo $language; ?> Placement Exam</h2>\n\n\n\n	<br />\n\n	<hr />\n\n	<br />\n\n	<div style=\"font-weight: bold; font-size:180%; text-align:center\"> PLACEMENT EXAM: KOREAN <br/><br/>\n\n	한국어 배치 고사</div><br/>\n\n	<text style=\"color:red ;font-weight: bold; font-size:120%\"> NOTE: </text>\n\n		<ul><li>If you have completed secondary education in Korea in Korean, please do not take this exam. Currently, NYU does not offer any Korean language course for those students. Please contact the Korean language coordinator if you need to consult. \n\n		</li><li>Please choose \"f) I don't know\" for any questions that you feel are above your proficiency level. If you select correct answers by chance, you may be inaccurately placed into a higher-level course, which may be unfair to you. \n\nIn order to prevent any misplacement, we STRONGLY encourage that you choose \"f) I don't know\" for questions that you do not understand completely. This will produce more accurate assessment of your proficiency.\n\n		</li></ul>\n\n		<text style=\"font-weight: bold; font-size:120%\">EXAM DURATION (Recommended) </text><br/>\n\n		<text>Please complete this exam in 75 minutes for accurate evaluation:\n\n 20 minutes for listening AND 55 minutes for grammar, usage and reading comprehension are recommended. </text><br/><br/><br/>\n\n \n\n	<form id=\"question_form\" name=\"question_form\" method=\"post\" action=\"koreanPartA.php\">\n\n		<input type=\"submit\" name=\"submit\" value=\"START\" style=\"height: 25px; width: 100px\">\n\n	</form>\n\n\n\n\n\n<?php footer(); ?>\n\n\n\n</body>\n\n</html>",
+			"^\\n",
+			"questions",
+			"submit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"&#44;",
+			"first",
+			"",
+			"japanese",
+			"'",
+			"line",
+			"cantonese",
+			">\n>\n>",
+			"",
+			"\n\"\"",
+			"\n",
+			"",
+			"\n\n\n\ndone\n\n\n\n",
+			"\n\n\n\ndone\n\n\ndone",
+			"\n\n\n^$",
+			"\n\n\n",
+			"\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 199.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"project": "ruby.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fu",
+				"func.rb"
+			],
+			[
+				"l",
+				"loop.rb"
+			],
+			[
+				"",
+				"condition.rb"
+			],
+			[
+				"co",
+				"const.rb"
+			],
+			[
+				"te",
+				"test.rb"
+			],
+			[
+				"c",
+				"const.rb"
+			],
+			[
+				"f",
+				"func.rb"
+			],
+			[
+				"sim",
+				"simplified_chinese.php"
+			],
+			[
+				"can",
+				"cantonese.php"
+			],
+			[
+				"ex",
+				"exams.css"
+			],
+			[
+				"jp_q_import",
+				"jp_q_import.php"
+			],
+			[
+				"jp_",
+				"jp_info.html"
+			],
+			[
+				"exam",
+				"exams.css"
+			],
+			[
+				"ja",
+				"japanese_report.php"
+			],
+			[
+				"j",
+				"japanese.php"
+			],
+			[
+				"log",
+				"logstudent.php"
+			],
+			[
+				"exams",
+				"exams.css"
+			],
+			[
+				"tm",
+				"tmpdata.txt"
+			],
+			[
+				"css",
+				"cas.css"
+			],
+			[
+				"tmp",
+				"tmpdata.txt"
+			],
+			[
+				"imp",
+				"importRoles.php"
+			],
+			[
+				"pla",
+				"placement.sql"
+			],
+			[
+				"tr",
+				"traditional_chinese_report.php"
+			],
+			[
+				"pi",
+				"blind/pieces.inc"
+			],
+			[
+				"chin",
+				"simplified_chinese.php"
+			],
+			[
+				"chi",
+				"simplified_chinese_report.php"
+			],
+			[
+				"pa",
+				"placement.sql"
+			],
+			[
+				"casub",
+				"cantonese_submit.php"
+			],
+			[
+				"ca",
+				"cantonese.php"
+			],
+			[
+				"sql",
+				"tables.sql"
+			],
+			[
+				"ch",
+				"simplified_chinese.php"
+			],
+			[
+				"la",
+				"latin.sql"
+			],
+			[
+				"con",
+				"blind/connect.inc"
+			],
+			[
+				"im",
+				"importRoles.php"
+			],
+			[
+				"latin",
+				"latin_submit.php"
+			],
+			[
+				"latinre",
+				"latin_report.php"
+			],
+			[
+				"va",
+				"validate.js"
+			],
+			[
+				"sty",
+				"blind/object/stylesheet.css"
+			],
+			[
+				"blind/",
+				"blind/pieces.inc"
+			],
+			[
+				"admin/",
+				"admin/main.php"
+			],
+			[
+				"in",
+				"admin/index.php"
+			],
+			[
+				"cas",
+				"blind/cas.css"
+			],
+			[
+				"main",
+				"admin/main.php"
+			],
+			[
+				"kor",
+				"korean_report.php"
+			],
+			[
+				"korre",
+				"korean_report.php"
+			],
+			[
+				"cass",
+				"blind/cas.css"
+			],
+			[
+				"jq",
+				"admin/jquery.tablesorter.min.js"
+			],
+			[
+				"sortjs",
+				"jquery/jquery.tablesorter.min.js"
+			],
+			[
+				"admin",
+				"admin/main.php"
+			],
+			[
+				"fun",
+				"blind/functions.php"
+			],
+			[
+				"korep",
+				"korean_report.php"
+			],
+			[
+				"kosu",
+				"korean_submit.php"
+			],
+			[
+				"ko",
+				"korean.php"
+			],
+			[
+				"sli",
+				"jquery/slide_and_structure.html"
+			],
+			[
+				"fr",
+				"french.php"
+			],
+			[
+				"fin",
+				"blind/functions.php"
+			],
+			[
+				"koreanp",
+				"koreanPartA.php"
+			],
+			[
+				"korst",
+				"korean_submit.php"
+			],
+			[
+				"k",
+				"korean.php"
+			],
+			[
+				"fuc",
+				"blind/functions.php"
+			],
+			[
+				"exp",
+				"admin/export_csv.php"
+			],
+			[
+				"che",
+				"checkNnumber.php"
+			],
+			[
+				"q",
+				"jQuery.js"
+			],
+			[
+				"vie",
+				"admin/viewstudent.php"
+			],
+			[
+				"js",
+				"validate.js"
+			],
+			[
+				"gr",
+				"greek.php"
+			],
+			[
+				"admin/in",
+				"admin/index.php"
+			],
+			[
+				"ma",
+				"admin/main.php"
+			],
+			[
+				"func",
+				"blind/functions.php"
+			],
+			[
+				"nu",
+				"checkNnumber.php"
+			],
+			[
+				"pr",
+				"processexam.php"
+			],
+			[
+				"content_edit",
+				"app/View/Dashboard/content_edit.ctp"
+			],
+			[
+				"admin_h",
+				"app/webroot/css/stylesheets/pages/admin_history.css"
+			],
+			[
+				"admin_hi",
+				"app/webroot/css/stylesheets/pages/admin_history.css"
+			],
+			[
+				"admin_his",
+				"app/webroot/css/stylesheets/pages/admin_history.css"
+			],
+			[
+				"scss",
+				"app/webroot/css/sass/player/player.scss"
+			],
+			[
+				"adm",
+				"app/Controller/AdminController.php"
+			],
+			[
+				"adminhis",
+				"app/webroot/css/.sass-cache/c934552cceac8bddd5f7ffb0a0e1fc7a7d0868bc/admin_histroy.scssc"
+			],
+			[
+				"admincss",
+				"app/webroot/css/stylesheets/pages/admin_history.css"
+			],
+			[
+				"admi",
+				"app/Controller/AdminController.php"
+			],
+			[
+				"his",
+				"app/View/Admin/history.ctp"
+			],
+			[
+				"dash",
+				"app/Controller/DashboardController.php"
+			],
+			[
+				"view.c",
+				"app/View/Users/view.ctp"
+			],
+			[
+				"g",
+				"greek.php"
+			],
+			[
+				"fench",
+				"french.php"
+			],
+			[
+				"cant",
+				"foreignlang/cantonese.php"
+			],
+			[
+				"index.ct",
+				"app/View/ContentAttributeManager/index.ctp"
+			],
+			[
+				"dashbo",
+				"app/Controller/DashboardController.php"
+			],
+			[
+				"cour",
+				"app/Controller/CoursesController.php"
+			],
+			[
+				"cou",
+				"app/Model/Course.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jingenlin/jobs/projects/open_assembly.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"hist",
+				"history"
+			]
+		],
+		"width": 553.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
