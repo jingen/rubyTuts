@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
-number = 0;
+#1-6
+#number = 0;
 #1
 # loop do
 # 	break if number > 15
@@ -36,9 +37,9 @@ number = 0;
 # 	puts "The number inside the loop is #{number}."
 # end
 
-#7
-# for number in 0..15
-# 	puts "The number inside the loop is #{number}."
-# end
+# 7
+for number in 0..15
+	puts "The number inside the loop is #{number}."
+end
 
 
