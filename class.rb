@@ -24,4 +24,4 @@ car.start
 p "The current car's state is #{car.state}"
 car.stop
 p "The current car's state is #{car.state}"
-p car.tires[0]
+#p car.tires[0]
