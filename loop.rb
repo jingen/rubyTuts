@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 #1-6
-#number = 0;
+# number = 0;
 #1
 # loop do
 # 	break if number > 15
